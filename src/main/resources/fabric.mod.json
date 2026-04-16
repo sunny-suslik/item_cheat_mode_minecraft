@@ -1,0 +1,31 @@
+{
+    "schemaVersion": 1,
+    "id": "itemgiver",
+    "version": "1.0.0",
+    "name": "Item Giver",
+    "description": "A GUI for giving any item to the player without requiring operator permissions.",
+    "authors": [
+        "Example Author"
+    ],
+    "contact": {
+        "homepage": "https://github.com/example/itemgiver"
+    },
+    "license": "MIT",
+    "icon": "assets/itemgiver/icon.png",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "com.example.itemgiver.ItemGiverMod"
+        ],
+        "client": [
+            "com.example.itemgiver.client.ItemGiverClient"
+        ]
+    },
+    "mixins": [],
+    "depends": {
+        "fabricloader": ">=0.16.0",
+        "minecraft": "~1.21.4",
+        "java": ">=21",
+        "fabric-api": "*"
+    }
+}

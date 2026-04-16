@@ -1,0 +1,9 @@
+{
+    "category.itemgiver": "Item Giving",
+    "key.itemgiver.open_gui": "Open Give Menu",
+    "screen.itemgiver.title": "Give Item",
+    "button.itemgiver.give": "Give",
+    "label.itemgiver.item_id": "Item ID",
+    "label.itemgiver.count": "Count",
+    "label.itemgiver.nbt": "NBT (JSON)"
+}
