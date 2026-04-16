@@ -1,22 +1,5 @@
 ```
-# Gradle
 .gradle/
 build/
-!gradle.properties
-
-# Dependencies
-libs/
-
-# IDE
-.idea/
-*.iml
-*.ipr
-*.iws
-
-# Logs
-*.log
-
-# Temporary files
-*.tmp
-*.temp
+*.jar
 ```
