@@ -1,0 +1,9 @@
+{
+    "category.itemgiver": "Выдача предметов",
+    "key.itemgiver.open_gui": "Открыть меню выдачи",
+    "screen.itemgiver.title": "Выдать предмет",
+    "button.itemgiver.give": "Выдать",
+    "label.itemgiver.item_id": "ID предмета",
+    "label.itemgiver.count": "Количество",
+    "label.itemgiver.nbt": "NBT (JSON)"
+}
